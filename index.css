@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(250, 225, 196);
+    margin-right: 20%;
+    margin-left: 20%;
+}
+h1{
+    color: rgba(63, 58, 17, 0.788);
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+ul{
+    line-height: 35px;
+    font-size:20px;
+}
+img{
+    border-radius: 35px;
+}
+th{
+    padding: 35px;
+    text-align: left;
+}
+tr{
+    font-size: 25px;
+}
+td{
+    font-size: 18px;
+}
+a:hover{
+    color:grey ;
+}
+.botao{
+    background-color: rgb(250, 225, 196);
+    font-size: 18px;
+    text-align: center;
+}
